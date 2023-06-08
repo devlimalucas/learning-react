@@ -1,9 +1,10 @@
 import './App.css';
+import Square from './components/Square';
 
 function App() {
   return (
     <div className="App">
-      Iniciando tic-tac-toe-tutorial.
+     <Square />
     </div>
   );
 }
